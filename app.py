@@ -22,6 +22,8 @@ st.info('''
          #### **Developed by Fahad !**
          ''')
 
+st.info("###### Classification Problem")
+
 
 # Sidebar
 # > selectbox for datasets
